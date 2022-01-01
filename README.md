@@ -20,24 +20,17 @@ Analysis across Latitudes based on different weather indicators
 
 ![World-WindSpeeds](Images/WeatherPy_CityLat_vs_WindSpeed.png)
 
-![NorthHem-WindSpeeds](Images/WeatherPy_NorthernHemisphere_Latitude_vs_WindSpeed.png)
-
-![SouthHem-WindSpeeds](Images/WeatherPy_SouthernHemisphere_Latitude_vs_WindSpeed.png)
+![NorthHem-WindSpeeds](Images/WeatherPy_NorthernHemisphere_Latitude_vs_WindSpeed.png)    ![SouthHem-WindSpeeds](Images/WeatherPy_SouthernHemisphere_Latitude_vs_WindSpeed.png)
 
 - `Cloudiness`: Similar to Windspeeds, there does not seem to be any specific trend of cloudiness near Equator or in Northern Hemisphere or in Southern Hemisphere. We can see the cloudiness is reaching max level of 100 and min level of 0 across many cities through the regions.
 
 ![NorthHem-Cloudiness](Images/WeatherPy_CityLat_vs_Cloudiness.png)
 
 
-![NorthHem-Cloudiness](Images/WeatherPy_NorthernHemisphere_Latitude_vs_Cloudiness.png)
-
-
-![SouthHem-Cloudiness](Images/WeatherPy_SouthernHemisphere_Latitude_vs_Cloudiness.png)
+![NorthHem-Cloudiness](Images/WeatherPy_NorthernHemisphere_Latitude_vs_Cloudiness.png)    ![SouthHem-Cloudiness](Images/WeatherPy_SouthernHemisphere_Latitude_vs_Cloudiness.png)
 
 - `Humidity`: We can see that the Northern Hemisphere seems to be little more Humid than the regions around Equator and Southern Hemisphere. But the Humid trends are there across the globe with more cities in Northern Hemisphere.
 
 ![World-Humidity](Images/WeatherPy_CityLat_vs_Humidity.png)
 
-![NorthHem-Humidity](Images/WeatherPy_NorthernHemisphere_Latitude_vs_Humidity.png)
-
-![SouthHem-Humidity](Images/WeatherPy_SouthernHemisphere_Latitude_vs_Humidity.png)
+![NorthHem-Humidity](Images/WeatherPy_NorthernHemisphere_Latitude_vs_Humidity.png)    ![SouthHem-Humidity](Images/WeatherPy_SouthernHemisphere_Latitude_vs_Humidity.png)
