@@ -12,7 +12,7 @@ Equator is considered to be 0 Degrees Latitude. Positive latitudes are considere
 Analysis across Latitudes based on different weather indicators
 - `Maximum Temperatures`: During this time of the year, Max temperatures seems to be higher/warmer near the equator. While moving from equator, Max temperatures seem to be reducing and are lesser and colder in the Northern Hemisphere; Southern Hemisphere seems to be still warmer than the northern region.
 
-![World-MaxTemps](Images\WeatherPy_CityLat_vs_MaxTemp.png)
+![World-MaxTemps](Images/WeatherPy_CityLat_vs_MaxTemp.png)
 
 ![NorthHem-MaxTemps](Images\WeatherPy_NorthernHemisphere_Latitude_vs_MaxTemp.png)
 
