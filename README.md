@@ -7,7 +7,7 @@ Objective is to build a representative model of Weather across world cities usin
 
 Analysis has been performed on the cities randomly selected from across the world. Farmost Cities from equator in the Northern Hemisphere included Longyearbyen, Svalbard, Norway and Qaanaaq, Greenland; and in the Southern Hemisphere were Ushuaia, Argentina (Southernmost tip of South America) and Punta Arenas, Chile.
 
-Equator is considered to be 0 Degrees Latitude. Positive latitudes are considered to be Northern Hemisphere and Negative latitudes are considered as Southern Hemisphere.
+Equator is at 0 Degrees Latitude. Positive latitudes are considered to be Northern Hemisphere and Negative ones are considered as Southern Hemisphere.
 
 Analysis across Latitudes based on different weather indicators
 - `Maximum Temperatures`: During this time of the year, Max temperatures seems to be higher/warmer near the equator. While moving from equator, Max temperatures seem to be reducing and are lesser and colder in the Northern Hemisphere; Southern Hemisphere seems to be still warmer than the northern region.
@@ -40,3 +40,4 @@ Analysis across Latitudes based on different weather indicators
 
 ## VacationPy Analysis
 
+Analysis was performed on the Cities from citiPy. Ideal weather condition was considered to be 
