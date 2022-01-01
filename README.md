@@ -14,9 +14,7 @@ Analysis across Latitudes based on different weather indicators
 
 ![World-MaxTemps](Images/WeatherPy_CityLat_vs_MaxTemp.png)
 
-![NorthHem-MaxTemps](Images/WeatherPy_NorthernHemisphere_Latitude_vs_MaxTemp.png)
-
-![SouthHem-MaxTemps](Images/WeatherPy_SouthernHemisphere_Latitude_vs_MaxTemp.png)
+![NorthHem-MaxTemps](Images/WeatherPy_NorthernHemisphere_Latitude_vs_MaxTemp.png)    ![SouthHem-MaxTemps](Images/WeatherPy_SouthernHemisphere_Latitude_vs_MaxTemp.png)
 
 - `Wind Speed`: There does not seem to be any kind of different trends with respect to Windspeeds across the world cities. World scatter plot shows the markers all over with one or two outliers with max speeds reaching 30mph at the far end of Northern Hemisphere.
 
