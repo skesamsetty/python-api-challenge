@@ -5,7 +5,7 @@ Objective is to build a representative model of Weather across world cities usin
 
 ## WeatherPy Analysis
 
-Analysis has been performed on the World cities randomly selected from across the world. Farmost Cities from equator in the Northern Hemisphere included Longyearbyen, Svalbard, Norway and Qaanaaq, Greenland; and in the Southern Hemisphere were Ushuaia, Argentina (Southernmost tip of South America) and Punta Arenas, Chile.
+Analysis has been performed on the cities randomly selected from across the world. Farmost Cities from equator in the Northern Hemisphere included Longyearbyen, Svalbard, Norway and Qaanaaq, Greenland; and in the Southern Hemisphere were Ushuaia, Argentina (Southernmost tip of South America) and Punta Arenas, Chile.
 
 Equator is considered to be 0 Degrees Latitude. Positive latitudes are considered to be Northern Hemisphere and Negative latitudes are considered as Southern Hemisphere.
 
@@ -39,3 +39,4 @@ Analysis across Latitudes based on different weather indicators
 ---
 
 ## VacationPy Analysis
+
