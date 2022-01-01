@@ -5,7 +5,7 @@ Objective is to build a representative model of Weather across world cities usin
 
 ## WeatherPy Analysis
 
-Analysis has been performed on the cities randomly selected from across the world. Farmost Cities from equator in the Northern Hemisphere included Longyearbyen, Svalbard, Norway and Qaanaaq, Greenland; and in the Southern Hemisphere were Ushuaia, Argentina (Southernmost tip of South America) and Punta Arenas, Chile.
+Analysis has been performed on the cities randomly selected from across the world using citiPy. Farmost Cities from equator in the Northern Hemisphere included Longyearbyen, Svalbard, Norway and Qaanaaq, Greenland; and in the Southern Hemisphere were Ushuaia, Argentina (Southernmost tip of South America) and Punta Arenas, Chile.
 
 Equator is at 0 Degrees Latitude. Positive latitudes are considered to be Northern Hemisphere and Negative ones are considered as Southern Hemisphere.
 
@@ -40,4 +40,11 @@ Analysis across Latitudes based on different weather indicators
 
 ## VacationPy Analysis
 
-Analysis was performed on the Cities from citiPy. Ideal weather condition was considered to be 
+Analysis was performed on the Cities identified from WeatherPy analysis. Considered the ideal weather conditions for the city as below:
+1. Max Temperature between 70 Degree Fahrenheit and 80 F
+2. Wind Speed less than 10mph
+3. Cloudiness is 0%
+
+Identified 12 Cities across the world for future vacations during this time of the year. This analysis also suggests a Hotel for Lodging in the city.
+
+![Cities-for-vacation](Images/VacationPy_IdealLocation_Hotels.png)
